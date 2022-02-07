@@ -8,5 +8,5 @@ SOLID is an acronym for the first five object-oriented design(OOD) principles by
 * Liskov Substitution principle: subclasses should be substitutable for their superclasses;
 * Interface segregation principle: many small, client-specific interfaces are better than one general purpose interface;
 * Dependency inversion principle: depends on abstractions not concretions; -->
-<br/>
+<br />
 These principles, make it easy for a programmer to develop software that are easy to maintain and extend. They also make it easy for developers to avoid code smells, easily refactor code, and are also a part of the agile or adaptive software development.
