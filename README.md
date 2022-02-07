@@ -1,8 +1,7 @@
 # SOLID Principles
 SOLID is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin, popularly known as @UncleBob.
 
-The five SOLID principles are:
-<a href="url"><img src="https://miro.medium.com/max/909/1*yO6YGExWLJl5VOUL61xXvQ.jpeg" align="left" height="200" width="350"></a>
+<a href="url"><img src="https://miro.medium.com/max/909/1*yO6YGExWLJl5VOUL61xXvQ.jpeg" align="left" height="300" width="500"></a></br>
 
 <!-- * Single responsibility principle: a class should have one, and only one, reason to change;
 * Open-closed principle: it should be possible to extend the behavoir of a class without  modifying it;
